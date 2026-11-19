@@ -1,5 +1,7 @@
 # FindIt: DLSU-D Digital Lost and Found
 
+Find It is a digital lost-and-found digital system to help students find lost items and help others from De La Salle University - Dasmariñas University management system to find your lost belongings anywhere in the school
+
 A lost and found system for SWAFO (Student Welfare and Formation Office). It's plain HTML, CSS and JavaScript, with no framework and no build step.
 
 ## Run it
