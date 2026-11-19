@@ -1,0 +1,27 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+*.log
+
+# Tests
+node_modules/
+test-results/
+playwright-report/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Live data: accounts (password hashes, emails, phones) and photos people uploaded.
+# Never commit these. Back them up separately (see findit/DEPLOY.md).
+findit/instance/
+findit/static/uploads/
+*.db
+
+# Secrets and build output
+.env
+findit-upload.zip
